@@ -1,4 +1,4 @@
-# This repo is for playground of codesinipts from different LLM related courses.
+# This repo is for playground of codes sample  from different LLM related courses.
 
 ## Course List
 
